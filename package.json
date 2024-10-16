@@ -1,0 +1,22 @@
+{
+  "name": "map-widget-sdk",
+  "version": "1.0.0",
+  "description": "The Mapbox GL Widget SDK is a JavaScript library designed to enable developers to easily embed and interact with interactive maps in web applications.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bcExpt1123/map-widget-sdk.git"
+  },
+  "keywords": [
+    "mapbox"
+  ],
+  "author": "bcExpt1123",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bcExpt1123/map-widget-sdk/issues"
+  },
+  "homepage": "https://github.com/bcExpt1123/map-widget-sdk#readme"
+}
